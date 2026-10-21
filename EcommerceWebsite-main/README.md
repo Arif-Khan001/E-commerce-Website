@@ -750,6 +750,6 @@ http://localhost:5173
 
 ### ⭐ If you found this project useful, consider giving it a Star!
 
-**Made with ❤️ using the MERN Stack**
+
 
 </div>
